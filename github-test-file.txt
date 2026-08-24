@@ -4,3 +4,4 @@ Originally the file was an empty txt file.
 =========================================
 This line is to test a change in a different branch, not main.
 
+This line is to test a change from another branch (main-backup-260824-second). Imagine 2 developers working on the same file.
